@@ -12,8 +12,8 @@ size_t j, k;
 
 if (!array || !size)
 return;
-j = 0;
 
+j = 0;
 while (j < size)
 {
 for (k = 0; k < size - 1; k++)
